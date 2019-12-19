@@ -1,0 +1,54 @@
+{
+    "name": "Scrapy",
+    "description": "The most popular open source web scraping framework in Python.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11435-scrapy.jpg",
+    "tags": [
+        "harvest",
+        "have api",
+        "scraping",
+        "scraping tools"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scrapy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Scrapy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11435-scrapy.jpg",
+            "humanURL": "http:\/\/scrapy.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scrapy-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scrapy-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/scrapy-cloud"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/scrapy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ScrapyProject"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/scrapy.org\/"
+        }
+    ]
+}
