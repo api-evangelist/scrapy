@@ -28,14 +28,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.scrapy.org/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.scrapy.org/en/latest/intro/tutorial.html
 common:
   - type: Website
     url: https://scrapy.org/
   - type: Documentation
     url: https://docs.scrapy.org/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/scrapy
 maintainers:
   - FN: Kin Lane
