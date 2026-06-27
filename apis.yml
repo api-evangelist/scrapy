@@ -37,7 +37,7 @@ common:
     url: https://docs.scrapy.org/
   - type: GitHubOrganization
     url: https://github.com/scrapy
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://docs.scrapy.org/llms.txt
 maintainers:
   - FN: Kin Lane
