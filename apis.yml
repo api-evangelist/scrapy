@@ -31,6 +31,8 @@ apis:
       - type: GettingStarted
         url: https://docs.scrapy.org/en/latest/intro/tutorial.html
 common:
+  - type: DomainSecurity
+    url: security/scrapy-domain-security.yml
   - type: Website
     url: https://scrapy.org/
   - type: Documentation
