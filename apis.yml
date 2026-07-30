@@ -4,7 +4,19 @@ description: >-
   Scrapy is an open-source Python web crawling framework for extracting
   structured data from websites using spiders and built-in data pipelines.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/scrapy.png
 tags:
   - Crawling
   - Data Extraction
