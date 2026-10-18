@@ -31,6 +31,10 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/scrapy.png
 tags:
   - Crawling
   - Data Extraction
+  - Web Scraping
+tags_raw:
+  - Crawling
+  - Data Extraction
   - Scraping
 url: >-
   https://raw.githubusercontent.com/api-evangelist/scrapy/refs/heads/main/apis.yml
@@ -45,6 +49,10 @@ apis:
       structured data from websites using spiders and built-in data pipelines.
     humanURL: https://scrapy.org/
     tags:
+      - Crawling
+      - Data Extraction
+      - Web Scraping
+    tags_raw:
       - Crawling
       - Data Extraction
       - Scraping
