@@ -1,4 +1,4 @@
-# Scrapy (scrapy)
+# Scrapy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,50 +66,101 @@
 
 Scrapy is an open-source Python web crawling framework for extracting structured data from websites using spiders and built-in data pipelines.
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/scrapy/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/scrapy/refs/heads/main/apis.yml)
+**Areas:** Crawling · Data Extraction · Web Scraping
 
-## Scope
+## Scrapy on APIs.io
 
-- **Type:** Index
+Everything profiled for Scrapy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scrapy/](https://apis.io/providers/scrapy/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Crawling
-- Data Extraction
-- Scraping
+- [Scrapy](https://apis.io/apis/scrapy/scrapy/) — Scrapy is an open-source Python web crawling framework for extracting structured data from websites using spiders and built-in data pipelines.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-29
-- **Modified:** 2026-03-29
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Scrapy
+Authentication, trust centre, and vulnerability disclosure.
 
-Scrapy is an open-source Python web crawling framework for extracting structured data from websites using spiders and built-in data pipelines.
+- [Scrapy Domain Security](https://apis.io/security/scrapy/scrapy-domain-security/)
 
-- **Human URL:** [https://scrapy.org/](https://scrapy.org/)
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Crawling
-- Data Extraction
-- Scraping
+- [Scrapy Plans Pricing](https://apis.io/plans/scrapy/scrapy-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://docs.scrapy.org/)
-- [Getting Started](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+Published request limits.
 
-## Common Properties
+- [Scrapy Rate Limits](https://apis.io/rate-limits/scrapy/scrapy-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Scrapy Finops](https://apis.io/finops/scrapy/scrapy-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://scrapy.org/)
 - [Documentation](https://docs.scrapy.org/)
-- [GitHub Organization](https://github.com/scrapy)
-- [L L Ms Txt](https://docs.scrapy.org/llms.txt)
+- [GitHub](https://github.com/scrapy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 10.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 46.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scrapy/](https://apis.io/providers/scrapy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Scrapy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scrapy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
